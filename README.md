@@ -1,5 +1,13 @@
-# Card-design
+# Card Design
  
 🏍️ Praticando card design com minhas motos favoritas.
 
-• Codado com: HTML5 e CSS3  <br> • Editor de imagem: GIMP  <br> • Favicon: https://favicon.io
+• Desenvolvido com: HTML, CSS 
+<br>
+• Ferramentas utilizadas:
+<br>
+<ul>
+ <li>favicon</li>
+ <li>GIMP</li>
+ <li>color adobe</li>
+</ul>
