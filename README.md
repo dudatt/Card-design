@@ -1,16 +1,16 @@
-# Card Design
- 
-🏍️ Praticando card design com minhas motos favoritas.
+# 🏍️ Card Design
+Praticando card design com minhas motos favoritas.
+---
+# ⌨️ Tecnologias 
+- HTML
+- CSS 
+---
+# ⚙️ Ferramentas utilizadas
 
-• Desenvolvido com: HTML, CSS 
-<br>
-• Ferramentas utilizadas:
-<br>
-<ul>
- <li>favicon</li>
- <li>GIMP</li>
- <li>color adobe</li>
-</ul>
-• Resultado:
+ - Favicon
+ - GIMP
+ - Color Adobe
+---
+# ✨ Resultado
 <img src="assets/imagens/01.png">
 <img src="assets/imagens/02.png">
