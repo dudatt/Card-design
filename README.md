@@ -12,5 +12,5 @@ Praticando card design com minhas motos favoritas.
  - Color Adobe
 ---
 # ✨ Resultado
-<img src="assets/imagens/01.png">
-<img src="assets/imagens/02.png">
+<img src="src/file/01.png">
+<img src="src/file/02.png">
