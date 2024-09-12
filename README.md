@@ -1,4 +1,4 @@
-# 🏍️ Card Design
+# 🏍️ MotocasCards
 Praticando card design com minhas motos favoritas.
 ---
 # ⌨️ Tecnologias 
@@ -6,7 +6,6 @@ Praticando card design com minhas motos favoritas.
 - CSS 
 ---
 # ⚙️ Ferramentas utilizadas
-
  - Favicon
  - GIMP
  - Color Adobe
