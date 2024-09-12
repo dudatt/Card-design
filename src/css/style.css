@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+@import url(./responsividade.css);
 
 :root {
     --fundo:linear-gradient(90deg, #E4E6E3, #989997, #6F706F);
@@ -22,14 +23,9 @@ body {
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    min-height: 100vh;
     background: var(--fundo);
 }
 
-.container__cards {
-    display: flex;
-    flex-direction: row;
-}
 
 .card {
     display: flex;
@@ -41,7 +37,6 @@ body {
     border-radius: 20px;
     box-shadow: 0 35px 80px rgba(0,0,0,0.15);
     transition: 0.5s;
-    margin-right: 20px;
 }
 
 .card:hover {
